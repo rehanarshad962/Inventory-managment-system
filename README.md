@@ -19,9 +19,7 @@ A Java-based desktop application for managing inventory items. This project is b
 
 - Java
 - Swing (GUI)
-- File Handling / (MySQL if applicable)
+- File Handling
 - Eclipse IDE
 
 ---
-
-## 📂 Project Structure
